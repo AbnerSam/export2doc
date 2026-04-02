@@ -1,3 +1,14 @@
+#!/usr/bin/env -S uv run
+# /// script
+# dependencies = [
+#   "requests>=2.32.0",
+#   "python-dotenv>=1.0.1",
+#   "psycopg[binary]>=3.2.0",
+#   "gspread>=6.1.2",
+#   "google-auth>=2.35.0",
+# ]
+# ///
+
 from __future__ import annotations
 
 import json
